@@ -1,6 +1,7 @@
 ### Hi there 👋
 I'm a 25 year old student from Risør, currently living in Bærum, Norway. I am currently studying Frontend Development at Noroff, and will be finished June 2021. I have a passion for self-development and find myself doing extra courses in development in my spare time.
-[![LinkedIn][3.2]][3]
+
+
 
 - 🔭 I’m currently working on Projext Exam 2 and Portfolio v.2
 - 🌱 I’m currently learning React, TypeScript and Redux
@@ -20,7 +21,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![emilietonnessen's GitHub stats](https://github-readme-stats.vercel.app/api?username=emilietonnessen&show_icons=true&theme=radical)
 [![emilietonnessen's GitHub stats](https://github-readme-stats.vercel.app/api?username=emilietonnessen)](https://github.com/emilietonnessen/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilietonnessen)](https://github.com/emilietonnessen/github-readme-stats)
-
-[2]: https://www.linkedin.com/in/emilie-henriette-t%C3%B8nnessen-19a850191/
