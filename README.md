@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 -->
 
 ![emilietonnessen's GitHub stats](https://github-readme-stats.vercel.app/api?username=emilietonnessen&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilietonnessen)](https://github.com/emilietonnessen/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilietonnessen&layout=compact)](https://github.com/emilietonnessen/github-readme-stats)
