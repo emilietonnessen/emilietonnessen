@@ -1,11 +1,7 @@
 ### Hi there 👋
-I'm a 25 year old student from Risør, currently living in Bærum, Norway. I am currently studying Frontend Development at Noroff, and will be finished June 2021. I have a passion for self-development and find myself doing extra courses in development in my spare time.
+I'm a 26 year old frontend developer from Risør, currently living in Asker, Norway. I'm currently working for Hurtigruten's B2B teams were we use techonolgy like React and TypeScript
 
 
-
-- 🔭 I’m currently working on Projext Exam 2 and Portfolio v.2
-- 🌱 I’m currently learning React, TypeScript and Redux
-- 📫 How to reach me: emilie@tonnessen.com
 <!--
 **emilietonnessen/emilietonnessen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
